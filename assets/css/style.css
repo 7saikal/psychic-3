@@ -1,0 +1,32 @@
+
+body {
+	background: url("https://odis.homeaway.com/odis/listing/e8108243-7edc-42ad-bc77-75aacfd3cb3d.c10.jpg");
+	font-size: 35px;
+	line-height: 30px;
+	font-family: 'Times New Roman';
+	color: darkgreen;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+
+h1, p {
+	margin-bottom: 15px;
+}
+h1{
+	font-family:  'Times New Roman', serif;
+	font-weight: 700;
+}
+h1 {
+	font-size: 3035px;
+	line-height: 30px;
+	border-bottom: 15px solid #ddd;
+	padding-bottom: 15px;
+}
+div{
+	margin: 15px;
+	padding: 15px;
+}
+
